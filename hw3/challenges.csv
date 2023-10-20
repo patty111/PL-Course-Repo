@@ -1,0 +1,212 @@
+challenge_name,difficulty,points,comments,rating,category,solves
+Practice Flag,Easy,10,444,4.0,Miscellaneous;intelagent,62454
+Basic Injection,Easy,30,736,4.6,Web;intelagent,50471
+Forensics 101,Easy,30,391,4.48,Forensics;intelagent,36288
+Character Encoding,Easy,20,257,4.39,Cryptography;dknj11902,32430
+Taking LS,Easy,10,344,3.87,Forensics;alexkato29,29564
+Base 2 2 the 6,Easy,20,198,4.29,Cryptography;PedroContipelli,23675
+Morse Code,Easy,20,163,3.74,Cryptography;yakatoi,22683
+Where Can My Robot Go?,Easy,30,296,4.55,Miscellaneous;intelagent,21372
+Reverse Polarity,Easy,30,130,4.12,Cryptography;aglickman,19541
+Wikipedia,Easy,30,278,4.52,Miscellaneous;hanto,18072
+POST Practice,Medium,40,295,4.44,Web;intelagent,17131
+WOW.... So Meta,Easy,20,143,4.3,Forensics;3301_,16923
+Binwalk,Easy,30,251,4.57,Forensics;alexkato29,16789
+Hextroadinary,Easy,30,185,4.45,Cryptography;crypto,15623
+Vigenere Cipher,Easy,20,157,4.4,Cryptography;yakatoi,14819
+Don't Bump Your Head(er),Medium,40,250,4.59,Web;intelagent,12994
+BruXOR,Easy,20,134,4.43,Cryptography;severus,11963
+Exif,Easy,20,136,3.85,Forensics;pipetogrep,11467
+07601,Medium,60,181,4.49,Forensics;alexkato29,10672
+QR Code,Easy,30,135,4.34,Miscellaneous;severus,10612
+HyperStream Test #2,Easy,30,108,4.31,Cryptography;leg3ndaryphil,10540
+Rubber Duck,Easy,10,152,4.19,Forensics;kcbowhunter,10379
+Git Is Good,Easy,30,110,4.48,Forensics;intelagent,10359
+My Blog,Easy,20,173,4.37,Web;Noxtal,9829
+Simple Programming,Easy,30,223,4.42,Programming;intelagent,9437
+Snowboard,Easy,20,200,4.44,Forensics;kcbowhunter,7396
+I'm a dump,Easy,10,82,4.06,Forensics;lancillotto,7360
+Lazy Game Challenge,Easy,30,153,4.69,Binary;thekidofarcrania,7159
+Inj3ction Time,Hard,100,144,4.7,Web;intelagent,6933
+PikesPeak,Easy,20,108,3.67,Forensics;kcbowhunter,6707
+Milk's Best Friend,Medium,40,94,4.3,Forensics;bobbyjives,6614
+Substitution Cipher,Medium,60,80,4.23,Cryptography;skywalkrs,5970
+A CAPture of a Flag,Medium,50,86,4.37,Forensics;hazzy,5911
+Gobustme ?,Easy,30,123,4.75,Web;intelagent,5844
+Chalkboard,Easy,30,95,4.42,Forensics;kcbowhunter,5519
+Tux!,Easy,20,132,4.71,Forensics;kcbowhunter,5345
+Up For A Little Challenge?,Medium,60,171,4.62,Forensics;skycoder,5211
+RSA Noob,Medium,60,71,4.43,Cryptography;intelagent,5201
+Modern Gaius Julius Caesar,Easy,30,113,4.32,Cryptography;Negatyw01,4912
+Pho Is Tasty!,Easy,30,112,4.46,Forensics;kcbowhunter,4658
+5x5 Crypto,Medium,60,61,4.13,Cryptography;skywalkrs,4539
+Calculat3 M3,Hard,80,65,4.3,Web;intelagent,4474
+Time Traveller,Easy,10,57,4.56,Miscellaneous;muhammetadibas,4349
+So many 64s,Hard,80,88,3.89,Cryptography;voidmercy,4294
+Digital Camouflage,Medium,40,79,4.22,Forensics;skywalkrs,4199
+Simple Steganography,Easy,30,66,4.64,Forensics;emiwaydodo,4167
+PDF by fdpumyp,Easy,20,48,4.15,Forensics;K1K9,3882
+Suspecious message,Easy,30,76,4.44,Cryptography;xuadzilczak,3854
+RSA Beginner,Medium,50,47,4.5,Cryptography;intelagent,3490
+What could this be?,Medium,60,80,4.38,Miscellaneous;potatodrug,3273
+Minions,Easy,20,110,4.67,Forensics;TedZak,3215
+Basic Android RE 1,Easy,10,76,4.62,Reverse Engineering;jonp,3210
+GandalfTheWise,Easy,30,137,4.59,Forensics;kcbowhunter,3172
+Encryption Master,Hard,90,75,3.6,Cryptography;skywalkrs,2909
+Corrupted File,Hard,70,76,4.56,Forensics;javier,2800
+Simple bof,Easy,10,66,4.85,Binary;thekidofarcrania,2757
+Image Magic,Hard,70,61,4.62,Programming;intelagent,2340
+The Credit Card Fraudster,Easy,20,115,4.73,Programming;ebouteillon,2285
+Tone dialing,Easy,30,75,4.63,Cryptography;GreenGoblin30,2279
+Blank Page,Easy,30,85,4.61,Forensics;Haker,2248
+PIN,Medium,60,50,4.13,Reverse Engineering;mils,2049
+Ambush Mission,Medium,60,80,4.5,Miscellaneous;pian,1915
+The adventures of Boris Ivanov. Part 1.,Medium,60,64,4.45,Forensics;nomad,1905
+abandoned place,Easy,30,80,4.66,Forensics;zed-zahir,1852
+Symbolic Decimals,Hard,80,36,3.8,Cryptography;skywalkrs,1829
+Exclusive Santa,Medium,60,43,4.65,Forensics;EdbR,1658
+Reykjavik,Easy,10,130,4.66,Reverse Engineering;kcbowhunter,1523
+RSA Twins!,Hard,90,25,4.29,Cryptography;justducky,1519
+Help Bity,Medium,60,49,3.47,Miscellaneous;ioancristian,1513
+Naughty Cat,Medium,50,84,4.84,Forensics;Negatyw01,1491
+ALEXCTF CR2: Many time secrets,Medium,60,29,4.48,Cryptography;jowls,1471
+RIP my bof,Easy,30,32,4.82,Binary;thekidofarcrania,1366
+Smiling ASCII,Medium,40,31,4.51,Forensics;lvmalware,1239
+Seeing is believing,Hard,70,45,4.79,Forensics;sengokumedaru,1205
+Favorite Color,Medium,60,56,4.7,Binary;thekidofarcrania,1196
+Rock Paper Scissors,Medium,40,35,4.38,Miscellaneous;intelagent,1190
+MountainMan,Medium,50,43,4.59,Forensics;kcbowhunter,1166
+The Simpsons,Hard,80,43,4.64,Cryptography;dankmemes,1094
+My Friend John,Easy,30,57,4.77,Miscellaneous;Namespace,1052
+RE_verseDIS,Medium,50,23,4.38,Reverse Engineering;cacadosman,999
+XOR Is Friend Not Food,Hard,100,37,4.22,Cryptography;intelagent,838
+Dumpster,Medium,60,39,4.71,Forensics;thekidofarcrania,832
+AudioEdit,Hard,160,40,4.48,Web;arxenix,822
+Adoni Assembler Chall,Easy,10,50,4.53,Programming;kcbowhunter,816
+CoppeRSA Lattice,Hard,70,38,4.33,Cryptography;digital_turtle,805
+HailCaesar!,Medium,40,39,4.59,Forensics;kcbowhunter,773
+Time to Eat,Medium,50,35,4.51,Reverse Engineering;Fireflew,711
+Weird Android Calculator,Medium,60,33,4.44,Programming;vidar,690
+Python Reversal,Hard,80,27,4.68,Programming;cyberclubadmin,684
+Is it the Flag? (JAVA),Hard,90,33,4.63,Programming;PedroContipelli,679
+Riyadh,Easy,10,80,4.63,Reverse Engineering;kcbowhunter,660
+Music To My Ears,Hard,70,33,4.76,Forensics;Fireflew,645
+Skynet Is (Almost) Taking Over,Hard,160,21,4.45,Cryptography;bobbyjives,644
+Brute Force is Fun!,Hard,140,31,4.5,Forensics;yuvalm,626
+Bite-code,Medium,60,24,4.58,Reverse Engineering;thekidofarcrania,605
+Grid It!,Hard,160,51,4.49,Web;intelagent,603
+The Keymaker,Medium,50,109,4.61,Forensics;kcbowhunter,593
+Blackbox,Hard,80,26,4.61,Binary;thekidofarcrania,574
+Old memories,Hard,80,22,3.8,Programming;abhiar,553
+Bobby Toe's iPad,Hard,70,33,4.63,Forensics;Fireflew,531
+The Adventures of Boris Ivanov Part 2,Hard,80,16,4.46,Programming;nomad,485
+Get Into Command Mission,Hard,70,26,4.39,Miscellaneous;pian,460
+Polycrypto,Hard,70,14,4.38,Cryptography;andreigasparovici,432
+F1L3 M1X3R,Hard,80,15,4.59,Miscellaneous;RedK,426
+Dawn's Lawn,Medium,60,21,4.35,Programming;adapap,424
+Programming a language,Medium,40,19,4.62,Programming;Wolfowy,418
+Rangoon,Easy,10,43,4.54,Reverse Engineering;kcbowhunter,410
+We want Nudes instead of Nukes,Hard,90,12,4.6,Cryptography;macmueller,399
+Ramada,Easy,10,18,4.75,Reverse Engineering;kcbowhunter,399
+Accumulator,Easy,10,8,4.56,Binary;Rivit,386
+Combo Safe-box,Hard,70,16,3.96,Miscellaneous;thekidofarcrania,382
+AndhraPradesh Assembler Chall,Easy,20,15,4.76,Programming;kcbowhunter,367
+The Safest Encryption,Medium,40,31,4.53,Cryptography;Renni,361
+ShahOfGimli,Medium,50,58,4.62,Forensics;kcbowhunter,351
+Read in Color,Hard,70,23,4.08,Programming;n6a1t4e,346
+QR-code inception,Hard,70,35,4.88,Forensics;ebouteillon,339
+Raspberry,Easy,20,19,4.63,Reverse Engineering;kcbowhunter,328
+Jumper,Medium,60,23,4.36,Reverse Engineering;thekidofarcrania,319
+Cryptoversing,Hard,90,15,4.66,Binary;molesz,311
+Lost In The Binary,Hard,80,29,4.69,Reverse Engineering;ramza500,303
+Bit by Bit,Medium,60,20,4.48,Programming;adapap,303
+The Data Scientist,Hard,70,39,4.8,Forensics;ebouteillon,300
+Zippy.zip,Medium,60,32,4.96,Cryptography;Rivit,276
+Recklinghausen,Easy,20,30,4.73,Reverse Engineering;kcbowhunter,274
+Finish The Flag,Easy,30,21,4.6,Reverse Engineering;0x41777,270
+Fabio's Nachos,Hard,80,22,4.65,Programming;adapap,234
+Image Editing,Hard,70,16,4.64,Cryptography;2021lthistle,213
+Mr.Bin,Medium,40,67,4.29,Forensics;someone92,201
+Defying Hell,Hard,100,54,4.5,Cryptography;Noxtal,199
+Reverse Me,Medium,50,4,4.38,Reverse Engineering;jakecrowley,197
+PyDis,Medium,40,9,4.72,Reverse Engineering;DaBaddest,183
+Shell time!,Medium,40,30,4.78,Binary;thekidofarcrania,183
+Riga,Easy,20,29,4.92,Reverse Engineering;kcbowhunter,161
+Rzeszow,Easy,30,20,4.44,Reverse Engineering;kcbowhunter,158
+Every Bit Counts,Hard,70,14,4.8,Reverse Engineering;ebouteillon,157
+The Super Secure Service,Hard,100,11,4.92,Reverse Engineering;thekidofarcrania,155
+Rock Paper Scissors 2,Hard,80,30,4.9,Miscellaneous;intelagent,153
+CTF 6502,Medium,40,9,4.34,Reverse Engineering;heinandre,149
+Jumping Chain Hash,Hard,100,10,4.25,Programming;adapap,140
+Flag Protocol,Hard,70,16,4.67,Miscellaneous;heinandre,140
+Bangalore Assembler Chall,Easy,30,20,4.74,Programming;kcbowhunter,140
+Tony Stark's Message,Medium,50,11,4.64,Programming;saphine,139
+Leak me,Easy,10,20,4.96,Binary;Rivit,132
+Poor Login,Medium,60,12,4.81,Binary;thekidofarcrania,126
+Ten Thousand Hours,Hard,140,16,4.94,Programming;blockingthesky,121
+Noise?,Hard,70,14,4.94,Forensics;thekidofarcrania,115
+The Most Secured Crypto-Channel,Hard,160,10,4.79,Cryptography;smite,110
+Jenny,Hard,140,19,4.69,Binary;thekidofarcrania,109
+Domain name resolver,Easy,10,15,4.9,Binary;Rivit,106
+SpaceStation,Medium,50,13,4.61,Forensics;kcbowhunter,105
+Q's Cubes,Hard,160,7,4.95,Miscellaneous;adapap,97
+Rio32,Medium,40,20,4.63,Reverse Engineering;kcbowhunter,95
+Keyboard Prodigy,Hard,70,6,4.42,Programming;adapap,94
+An Old Image,Medium,50,18,4.67,Programming;PineappleConverter,93
+Positive challenge,Easy,20,7,5.0,Binary;Rivit,90
+Rotterdam Reversing Challenge,Medium,40,25,4.81,Reverse Engineering;kcbowhunter,89
+Christmas Tree Hash,Hard,100,14,4.56,Programming;adapap,83
+"Android, run!",Hard,140,5,4.9,Miscellaneous;vidar,76
+Linear-feedback. Shift. Register.,Hard,90,9,4.83,Cryptography;Wolfowy,75
+Libraries,Hard,70,3,4.71,Binary;thekidofarcrania,68
+A secure LCG?,Hard,70,10,4.77,Cryptography;Wolfowy,65
+Impossible equation,Easy,20,12,4.62,Programming;Rivit,65
+Roma,Medium,50,9,4.83,Reverse Engineering;kcbowhunter,52
+TheVault,Medium,50,36,4.62,Forensics;kcbowhunter,52
+Alternate Endings,Hard,200,21,4.93,Forensics;adapap,51
+Jakarta,Medium,50,19,4.72,Forensics;kcbowhunter,49
+Phone,Hard,70,20,4.52,Forensics;konik02,48
+Sonnet,Hard,80,6,3.71,Reverse Engineering;thekidofarcrania,44
+VargasIsland,Hard,80,20,4.86,Forensics;kcbowhunter,43
+Antigua,Easy,30,4,5.0,Programming;kcbowhunter,41
+Two times sixteen,Easy,20,12,4.94,Binary;Rivit,40
+arm arch,Medium,50,8,5.0,Reverse Engineering;Ichild,39
+Common secret,Hard,90,20,4.35,Cryptography;andreigasparovici,38
+Regina,Medium,60,12,5.0,Reverse Engineering;kcbowhunter,38
+Rabat Reversing Challenge,Medium,50,16,5.0,Reverse Engineering;kcbowhunter,34
+Forbidden executable,Hard,100,13,4.23,Reverse Engineering;domin568,33
+Readme,Easy,30,6,5.0,Binary;Rivit,33
+Glob,Easy,20,5,5.0,Binary;Rivit,33
+Test Event Challenge 1,Hard,80,3,3.14,Binary;intelagent,32
+Nighthawk,Medium,50,32,4.88,Forensics;kcbowhunter,32
+The Awesome Gift!,Hard,90,17,4.71,Forensics;thekidofarcrania,31
+Scope,Hard,100,13,5.0,Forensics;kcbowhunter,25
+Runner,Easy,30,3,5.0,Binary;Rivit,23
+APK Login Cracking,Hard,80,8,5.0,Reverse Engineering;risecid,22
+Cookies,Easy,30,9,4.88,Binary;Rivit,21
+Random malloc,Easy,30,5,4.88,Binary;Rivit,21
+Rouen,Hard,100,13,5.0,Reverse Engineering;kcbowhunter,20
+F1L3 M1X3R 2 - MP4 Identity Issue,Hard,90,16,4.6,Forensics;RedK,18
+Rainbow,Hard,80,11,4.92,Reverse Engineering;kcbowhunter,18
+Lottery,Medium,50,0,5.0,Binary;Rivit,18
+PACMAN,Hard,90,1,4.75,Reverse Engineering;comet,17
+Patcher,Medium,50,3,5.0,Reverse Engineering;Rivit,17
+Number Cruncher,Hard,100,8,4.88,Reverse Engineering;thekidofarcrania,15
+RE^2 I,Hard,160,9,5.0,Binary;thekidofarcrania,13
+Disabled service,Medium,40,3,5.0,Binary;Rivit,13
+Chain,Medium,50,3,5.0,Binary;Rivit,13
+No more cookies,Medium,50,0,5.0,Binary;Rivit,13
+Buffer brothers,Medium,50,0,5.0,Binary;Rivit,12
+Old times,Medium,60,8,5.0,Reverse Engineering;Rivit,9
+Theft,Medium,50,0,5.0,Binary;Rivit,9
+Introduction to Intrinsics,Hard,80,5,4.71,Reverse Engineering;Gilad,8
+Not so fast,Medium,60,15,4.71,Reverse Engineering;Rivit,8
+Banned bytes,Medium,60,0,5.0,Binary;Rivit,8
+Management,Medium,60,1,5.0,Binary;Rivit,8
+Inspector gadget,Medium,60,0,4.75,Binary;Rivit,8
+Callsys,Medium,50,0,5.0,Binary;Rivit,8
+Dune,Medium,60,9,5.0,Reverse Engineering;kcbowhunter,8
+Redirected,Hard,70,1,5.0,Binary;Rivit,6
+House,Hard,80,1,5.0,Binary;Rivit,5
+Slow bin,Hard,90,5,5.0,Binary;Rivit,5
+Hook,Medium,50,0,5.0,Binary;Rivit,5

@@ -1,0 +1,1901 @@
+[
+    {
+        "challenge_name": "Practice Flag",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 444,
+        "rating": 4.0,
+        "category": "Miscellaneous;intelagent",
+        "solves": 62454
+    },
+    {
+        "challenge_name": "Basic Injection",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 736,
+        "rating": 4.6,
+        "category": "Web;intelagent",
+        "solves": 50471
+    },
+    {
+        "challenge_name": "Forensics 101",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 391,
+        "rating": 4.48,
+        "category": "Forensics;intelagent",
+        "solves": 36288
+    },
+    {
+        "challenge_name": "Character Encoding",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 257,
+        "rating": 4.39,
+        "category": "Cryptography;dknj11902",
+        "solves": 32430
+    },
+    {
+        "challenge_name": "Taking LS",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 344,
+        "rating": 3.87,
+        "category": "Forensics;alexkato29",
+        "solves": 29564
+    },
+    {
+        "challenge_name": "Base 2 2 the 6",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 198,
+        "rating": 4.29,
+        "category": "Cryptography;PedroContipelli",
+        "solves": 23675
+    },
+    {
+        "challenge_name": "Morse Code",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 163,
+        "rating": 3.74,
+        "category": "Cryptography;yakatoi",
+        "solves": 22683
+    },
+    {
+        "challenge_name": "Where Can My Robot Go?",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 296,
+        "rating": 4.55,
+        "category": "Miscellaneous;intelagent",
+        "solves": 21372
+    },
+    {
+        "challenge_name": "Reverse Polarity",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 130,
+        "rating": 4.12,
+        "category": "Cryptography;aglickman",
+        "solves": 19541
+    },
+    {
+        "challenge_name": "Wikipedia",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 278,
+        "rating": 4.52,
+        "category": "Miscellaneous;hanto",
+        "solves": 18072
+    },
+    {
+        "challenge_name": "POST Practice",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 295,
+        "rating": 4.44,
+        "category": "Web;intelagent",
+        "solves": 17131
+    },
+    {
+        "challenge_name": "WOW.... So Meta",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 143,
+        "rating": 4.3,
+        "category": "Forensics;3301_",
+        "solves": 16923
+    },
+    {
+        "challenge_name": "Binwalk",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 251,
+        "rating": 4.57,
+        "category": "Forensics;alexkato29",
+        "solves": 16789
+    },
+    {
+        "challenge_name": "Hextroadinary",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 185,
+        "rating": 4.45,
+        "category": "Cryptography;crypto",
+        "solves": 15623
+    },
+    {
+        "challenge_name": "Vigenere Cipher",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 157,
+        "rating": 4.4,
+        "category": "Cryptography;yakatoi",
+        "solves": 14819
+    },
+    {
+        "challenge_name": "Don't Bump Your Head(er)",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 250,
+        "rating": 4.59,
+        "category": "Web;intelagent",
+        "solves": 12994
+    },
+    {
+        "challenge_name": "BruXOR",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 134,
+        "rating": 4.43,
+        "category": "Cryptography;severus",
+        "solves": 11963
+    },
+    {
+        "challenge_name": "Exif",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 136,
+        "rating": 3.85,
+        "category": "Forensics;pipetogrep",
+        "solves": 11467
+    },
+    {
+        "challenge_name": "07601",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 181,
+        "rating": 4.49,
+        "category": "Forensics;alexkato29",
+        "solves": 10672
+    },
+    {
+        "challenge_name": "QR Code",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 135,
+        "rating": 4.34,
+        "category": "Miscellaneous;severus",
+        "solves": 10612
+    },
+    {
+        "challenge_name": "HyperStream Test #2",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 108,
+        "rating": 4.31,
+        "category": "Cryptography;leg3ndaryphil",
+        "solves": 10540
+    },
+    {
+        "challenge_name": "Rubber Duck",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 152,
+        "rating": 4.19,
+        "category": "Forensics;kcbowhunter",
+        "solves": 10379
+    },
+    {
+        "challenge_name": "Git Is Good",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 110,
+        "rating": 4.48,
+        "category": "Forensics;intelagent",
+        "solves": 10359
+    },
+    {
+        "challenge_name": "My Blog",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 173,
+        "rating": 4.37,
+        "category": "Web;Noxtal",
+        "solves": 9829
+    },
+    {
+        "challenge_name": "Simple Programming",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 223,
+        "rating": 4.42,
+        "category": "Programming;intelagent",
+        "solves": 9437
+    },
+    {
+        "challenge_name": "Snowboard",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 200,
+        "rating": 4.44,
+        "category": "Forensics;kcbowhunter",
+        "solves": 7396
+    },
+    {
+        "challenge_name": "I'm a dump",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 82,
+        "rating": 4.06,
+        "category": "Forensics;lancillotto",
+        "solves": 7360
+    },
+    {
+        "challenge_name": "Lazy Game Challenge",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 153,
+        "rating": 4.69,
+        "category": "Binary;thekidofarcrania",
+        "solves": 7159
+    },
+    {
+        "challenge_name": "Inj3ction Time",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 144,
+        "rating": 4.7,
+        "category": "Web;intelagent",
+        "solves": 6933
+    },
+    {
+        "challenge_name": "PikesPeak",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 108,
+        "rating": 3.67,
+        "category": "Forensics;kcbowhunter",
+        "solves": 6707
+    },
+    {
+        "challenge_name": "Milk's Best Friend",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 94,
+        "rating": 4.3,
+        "category": "Forensics;bobbyjives",
+        "solves": 6614
+    },
+    {
+        "challenge_name": "Substitution Cipher",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 80,
+        "rating": 4.23,
+        "category": "Cryptography;skywalkrs",
+        "solves": 5970
+    },
+    {
+        "challenge_name": "A CAPture of a Flag",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 86,
+        "rating": 4.37,
+        "category": "Forensics;hazzy",
+        "solves": 5911
+    },
+    {
+        "challenge_name": "Gobustme ?",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 123,
+        "rating": 4.75,
+        "category": "Web;intelagent",
+        "solves": 5844
+    },
+    {
+        "challenge_name": "Chalkboard",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 95,
+        "rating": 4.42,
+        "category": "Forensics;kcbowhunter",
+        "solves": 5519
+    },
+    {
+        "challenge_name": "Tux!",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 132,
+        "rating": 4.71,
+        "category": "Forensics;kcbowhunter",
+        "solves": 5345
+    },
+    {
+        "challenge_name": "Up For A Little Challenge?",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 171,
+        "rating": 4.62,
+        "category": "Forensics;skycoder",
+        "solves": 5211
+    },
+    {
+        "challenge_name": "RSA Noob",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 71,
+        "rating": 4.43,
+        "category": "Cryptography;intelagent",
+        "solves": 5201
+    },
+    {
+        "challenge_name": "Modern Gaius Julius Caesar",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 113,
+        "rating": 4.32,
+        "category": "Cryptography;Negatyw01",
+        "solves": 4912
+    },
+    {
+        "challenge_name": "Pho Is Tasty!",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 112,
+        "rating": 4.46,
+        "category": "Forensics;kcbowhunter",
+        "solves": 4658
+    },
+    {
+        "challenge_name": "5x5 Crypto",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 61,
+        "rating": 4.13,
+        "category": "Cryptography;skywalkrs",
+        "solves": 4539
+    },
+    {
+        "challenge_name": "Calculat3 M3",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 65,
+        "rating": 4.3,
+        "category": "Web;intelagent",
+        "solves": 4474
+    },
+    {
+        "challenge_name": "Time Traveller",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 57,
+        "rating": 4.56,
+        "category": "Miscellaneous;muhammetadibas",
+        "solves": 4349
+    },
+    {
+        "challenge_name": "So many 64s",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 88,
+        "rating": 3.89,
+        "category": "Cryptography;voidmercy",
+        "solves": 4294
+    },
+    {
+        "challenge_name": "Digital Camouflage",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 79,
+        "rating": 4.22,
+        "category": "Forensics;skywalkrs",
+        "solves": 4199
+    },
+    {
+        "challenge_name": "Simple Steganography",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 66,
+        "rating": 4.64,
+        "category": "Forensics;emiwaydodo",
+        "solves": 4167
+    },
+    {
+        "challenge_name": "PDF by fdpumyp",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 48,
+        "rating": 4.15,
+        "category": "Forensics;K1K9",
+        "solves": 3882
+    },
+    {
+        "challenge_name": "Suspecious message",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 76,
+        "rating": 4.44,
+        "category": "Cryptography;xuadzilczak",
+        "solves": 3854
+    },
+    {
+        "challenge_name": "RSA Beginner",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 47,
+        "rating": 4.5,
+        "category": "Cryptography;intelagent",
+        "solves": 3490
+    },
+    {
+        "challenge_name": "What could this be?",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 80,
+        "rating": 4.38,
+        "category": "Miscellaneous;potatodrug",
+        "solves": 3273
+    },
+    {
+        "challenge_name": "Minions",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 110,
+        "rating": 4.67,
+        "category": "Forensics;TedZak",
+        "solves": 3215
+    },
+    {
+        "challenge_name": "Basic Android RE 1",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 76,
+        "rating": 4.62,
+        "category": "Reverse Engineering;jonp",
+        "solves": 3210
+    },
+    {
+        "challenge_name": "GandalfTheWise",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 137,
+        "rating": 4.59,
+        "category": "Forensics;kcbowhunter",
+        "solves": 3172
+    },
+    {
+        "challenge_name": "Encryption Master",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 75,
+        "rating": 3.6,
+        "category": "Cryptography;skywalkrs",
+        "solves": 2909
+    },
+    {
+        "challenge_name": "Corrupted File",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 76,
+        "rating": 4.56,
+        "category": "Forensics;javier",
+        "solves": 2800
+    },
+    {
+        "challenge_name": "Simple bof",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 66,
+        "rating": 4.85,
+        "category": "Binary;thekidofarcrania",
+        "solves": 2757
+    },
+    {
+        "challenge_name": "Image Magic",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 61,
+        "rating": 4.62,
+        "category": "Programming;intelagent",
+        "solves": 2340
+    },
+    {
+        "challenge_name": "The Credit Card Fraudster",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 115,
+        "rating": 4.73,
+        "category": "Programming;ebouteillon",
+        "solves": 2285
+    },
+    {
+        "challenge_name": "Tone dialing",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 75,
+        "rating": 4.63,
+        "category": "Cryptography;GreenGoblin30",
+        "solves": 2279
+    },
+    {
+        "challenge_name": "Blank Page",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 85,
+        "rating": 4.61,
+        "category": "Forensics;Haker",
+        "solves": 2248
+    },
+    {
+        "challenge_name": "PIN",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 50,
+        "rating": 4.13,
+        "category": "Reverse Engineering;mils",
+        "solves": 2049
+    },
+    {
+        "challenge_name": "Ambush Mission",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 80,
+        "rating": 4.5,
+        "category": "Miscellaneous;pian",
+        "solves": 1915
+    },
+    {
+        "challenge_name": "The adventures of Boris Ivanov. Part 1.",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 64,
+        "rating": 4.45,
+        "category": "Forensics;nomad",
+        "solves": 1905
+    },
+    {
+        "challenge_name": "abandoned place",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 80,
+        "rating": 4.66,
+        "category": "Forensics;zed-zahir",
+        "solves": 1852
+    },
+    {
+        "challenge_name": "Symbolic Decimals",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 36,
+        "rating": 3.8,
+        "category": "Cryptography;skywalkrs",
+        "solves": 1829
+    },
+    {
+        "challenge_name": "Exclusive Santa",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 43,
+        "rating": 4.65,
+        "category": "Forensics;EdbR",
+        "solves": 1658
+    },
+    {
+        "challenge_name": "Reykjavik",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 130,
+        "rating": 4.66,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 1523
+    },
+    {
+        "challenge_name": "RSA Twins!",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 25,
+        "rating": 4.29,
+        "category": "Cryptography;justducky",
+        "solves": 1519
+    },
+    {
+        "challenge_name": "Help Bity",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 49,
+        "rating": 3.47,
+        "category": "Miscellaneous;ioancristian",
+        "solves": 1513
+    },
+    {
+        "challenge_name": "Naughty Cat",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 84,
+        "rating": 4.84,
+        "category": "Forensics;Negatyw01",
+        "solves": 1491
+    },
+    {
+        "challenge_name": "ALEXCTF CR2: Many time secrets",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 29,
+        "rating": 4.48,
+        "category": "Cryptography;jowls",
+        "solves": 1471
+    },
+    {
+        "challenge_name": "RIP my bof",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 32,
+        "rating": 4.82,
+        "category": "Binary;thekidofarcrania",
+        "solves": 1366
+    },
+    {
+        "challenge_name": "Smiling ASCII",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 31,
+        "rating": 4.51,
+        "category": "Forensics;lvmalware",
+        "solves": 1239
+    },
+    {
+        "challenge_name": "Seeing is believing",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 45,
+        "rating": 4.79,
+        "category": "Forensics;sengokumedaru",
+        "solves": 1205
+    },
+    {
+        "challenge_name": "Favorite Color",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 56,
+        "rating": 4.7,
+        "category": "Binary;thekidofarcrania",
+        "solves": 1196
+    },
+    {
+        "challenge_name": "Rock Paper Scissors",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 35,
+        "rating": 4.38,
+        "category": "Miscellaneous;intelagent",
+        "solves": 1190
+    },
+    {
+        "challenge_name": "MountainMan",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 43,
+        "rating": 4.59,
+        "category": "Forensics;kcbowhunter",
+        "solves": 1166
+    },
+    {
+        "challenge_name": "The Simpsons",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 43,
+        "rating": 4.64,
+        "category": "Cryptography;dankmemes",
+        "solves": 1094
+    },
+    {
+        "challenge_name": "My Friend John",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 57,
+        "rating": 4.77,
+        "category": "Miscellaneous;Namespace",
+        "solves": 1052
+    },
+    {
+        "challenge_name": "RE_verseDIS",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 23,
+        "rating": 4.38,
+        "category": "Reverse Engineering;cacadosman",
+        "solves": 999
+    },
+    {
+        "challenge_name": "XOR Is Friend Not Food",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 37,
+        "rating": 4.22,
+        "category": "Cryptography;intelagent",
+        "solves": 838
+    },
+    {
+        "challenge_name": "Dumpster",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 39,
+        "rating": 4.71,
+        "category": "Forensics;thekidofarcrania",
+        "solves": 832
+    },
+    {
+        "challenge_name": "AudioEdit",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 40,
+        "rating": 4.48,
+        "category": "Web;arxenix",
+        "solves": 822
+    },
+    {
+        "challenge_name": "Adoni Assembler Chall",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 50,
+        "rating": 4.53,
+        "category": "Programming;kcbowhunter",
+        "solves": 816
+    },
+    {
+        "challenge_name": "CoppeRSA Lattice",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 38,
+        "rating": 4.33,
+        "category": "Cryptography;digital_turtle",
+        "solves": 805
+    },
+    {
+        "challenge_name": "HailCaesar!",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 39,
+        "rating": 4.59,
+        "category": "Forensics;kcbowhunter",
+        "solves": 773
+    },
+    {
+        "challenge_name": "Time to Eat",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 35,
+        "rating": 4.51,
+        "category": "Reverse Engineering;Fireflew",
+        "solves": 711
+    },
+    {
+        "challenge_name": "Weird Android Calculator",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 33,
+        "rating": 4.44,
+        "category": "Programming;vidar",
+        "solves": 690
+    },
+    {
+        "challenge_name": "Python Reversal",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 27,
+        "rating": 4.68,
+        "category": "Programming;cyberclubadmin",
+        "solves": 684
+    },
+    {
+        "challenge_name": "Is it the Flag? (JAVA)",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 33,
+        "rating": 4.63,
+        "category": "Programming;PedroContipelli",
+        "solves": 679
+    },
+    {
+        "challenge_name": "Riyadh",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 80,
+        "rating": 4.63,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 660
+    },
+    {
+        "challenge_name": "Music To My Ears",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 33,
+        "rating": 4.76,
+        "category": "Forensics;Fireflew",
+        "solves": 645
+    },
+    {
+        "challenge_name": "Skynet Is (Almost) Taking Over",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 21,
+        "rating": 4.45,
+        "category": "Cryptography;bobbyjives",
+        "solves": 644
+    },
+    {
+        "challenge_name": "Brute Force is Fun!",
+        "difficulty": "Hard",
+        "points": 140,
+        "comments": 31,
+        "rating": 4.5,
+        "category": "Forensics;yuvalm",
+        "solves": 626
+    },
+    {
+        "challenge_name": "Bite-code",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 24,
+        "rating": 4.58,
+        "category": "Reverse Engineering;thekidofarcrania",
+        "solves": 605
+    },
+    {
+        "challenge_name": "Grid It!",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 51,
+        "rating": 4.49,
+        "category": "Web;intelagent",
+        "solves": 603
+    },
+    {
+        "challenge_name": "The Keymaker",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 109,
+        "rating": 4.61,
+        "category": "Forensics;kcbowhunter",
+        "solves": 593
+    },
+    {
+        "challenge_name": "Blackbox",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 26,
+        "rating": 4.61,
+        "category": "Binary;thekidofarcrania",
+        "solves": 574
+    },
+    {
+        "challenge_name": "Old memories",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 22,
+        "rating": 3.8,
+        "category": "Programming;abhiar",
+        "solves": 553
+    },
+    {
+        "challenge_name": "Bobby Toe's iPad",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 33,
+        "rating": 4.63,
+        "category": "Forensics;Fireflew",
+        "solves": 531
+    },
+    {
+        "challenge_name": "The Adventures of Boris Ivanov Part 2",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 16,
+        "rating": 4.46,
+        "category": "Programming;nomad",
+        "solves": 485
+    },
+    {
+        "challenge_name": "Get Into Command Mission",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 26,
+        "rating": 4.39,
+        "category": "Miscellaneous;pian",
+        "solves": 460
+    },
+    {
+        "challenge_name": "Polycrypto",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 14,
+        "rating": 4.38,
+        "category": "Cryptography;andreigasparovici",
+        "solves": 432
+    },
+    {
+        "challenge_name": "F1L3 M1X3R",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 15,
+        "rating": 4.59,
+        "category": "Miscellaneous;RedK",
+        "solves": 426
+    },
+    {
+        "challenge_name": "Dawn's Lawn",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 21,
+        "rating": 4.35,
+        "category": "Programming;adapap",
+        "solves": 424
+    },
+    {
+        "challenge_name": "Programming a language",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 19,
+        "rating": 4.62,
+        "category": "Programming;Wolfowy",
+        "solves": 418
+    },
+    {
+        "challenge_name": "Rangoon",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 43,
+        "rating": 4.54,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 410
+    },
+    {
+        "challenge_name": "We want Nudes instead of Nukes",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 12,
+        "rating": 4.6,
+        "category": "Cryptography;macmueller",
+        "solves": 399
+    },
+    {
+        "challenge_name": "Ramada",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 18,
+        "rating": 4.75,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 399
+    },
+    {
+        "challenge_name": "Accumulator",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 8,
+        "rating": 4.56,
+        "category": "Binary;Rivit",
+        "solves": 386
+    },
+    {
+        "challenge_name": "Combo Safe-box",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 16,
+        "rating": 3.96,
+        "category": "Miscellaneous;thekidofarcrania",
+        "solves": 382
+    },
+    {
+        "challenge_name": "AndhraPradesh Assembler Chall",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 15,
+        "rating": 4.76,
+        "category": "Programming;kcbowhunter",
+        "solves": 367
+    },
+    {
+        "challenge_name": "The Safest Encryption",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 31,
+        "rating": 4.53,
+        "category": "Cryptography;Renni",
+        "solves": 361
+    },
+    {
+        "challenge_name": "ShahOfGimli",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 58,
+        "rating": 4.62,
+        "category": "Forensics;kcbowhunter",
+        "solves": 351
+    },
+    {
+        "challenge_name": "Read in Color",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 23,
+        "rating": 4.08,
+        "category": "Programming;n6a1t4e",
+        "solves": 346
+    },
+    {
+        "challenge_name": "QR-code inception",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 35,
+        "rating": 4.88,
+        "category": "Forensics;ebouteillon",
+        "solves": 339
+    },
+    {
+        "challenge_name": "Raspberry",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 19,
+        "rating": 4.63,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 328
+    },
+    {
+        "challenge_name": "Jumper",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 23,
+        "rating": 4.36,
+        "category": "Reverse Engineering;thekidofarcrania",
+        "solves": 319
+    },
+    {
+        "challenge_name": "Cryptoversing",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 15,
+        "rating": 4.66,
+        "category": "Binary;molesz",
+        "solves": 311
+    },
+    {
+        "challenge_name": "Lost In The Binary",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 29,
+        "rating": 4.69,
+        "category": "Reverse Engineering;ramza500",
+        "solves": 303
+    },
+    {
+        "challenge_name": "Bit by Bit",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 20,
+        "rating": 4.48,
+        "category": "Programming;adapap",
+        "solves": 303
+    },
+    {
+        "challenge_name": "The Data Scientist",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 39,
+        "rating": 4.8,
+        "category": "Forensics;ebouteillon",
+        "solves": 300
+    },
+    {
+        "challenge_name": "Zippy.zip",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 32,
+        "rating": 4.96,
+        "category": "Cryptography;Rivit",
+        "solves": 276
+    },
+    {
+        "challenge_name": "Recklinghausen",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 30,
+        "rating": 4.73,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 274
+    },
+    {
+        "challenge_name": "Finish The Flag",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 21,
+        "rating": 4.6,
+        "category": "Reverse Engineering;0x41777",
+        "solves": 270
+    },
+    {
+        "challenge_name": "Fabio's Nachos",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 22,
+        "rating": 4.65,
+        "category": "Programming;adapap",
+        "solves": 234
+    },
+    {
+        "challenge_name": "Image Editing",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 16,
+        "rating": 4.64,
+        "category": "Cryptography;2021lthistle",
+        "solves": 213
+    },
+    {
+        "challenge_name": "Mr.Bin",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 67,
+        "rating": 4.29,
+        "category": "Forensics;someone92",
+        "solves": 201
+    },
+    {
+        "challenge_name": "Defying Hell",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 54,
+        "rating": 4.5,
+        "category": "Cryptography;Noxtal",
+        "solves": 199
+    },
+    {
+        "challenge_name": "Reverse Me",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 4,
+        "rating": 4.38,
+        "category": "Reverse Engineering;jakecrowley",
+        "solves": 197
+    },
+    {
+        "challenge_name": "PyDis",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 9,
+        "rating": 4.72,
+        "category": "Reverse Engineering;DaBaddest",
+        "solves": 183
+    },
+    {
+        "challenge_name": "Shell time!",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 30,
+        "rating": 4.78,
+        "category": "Binary;thekidofarcrania",
+        "solves": 183
+    },
+    {
+        "challenge_name": "Riga",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 29,
+        "rating": 4.92,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 161
+    },
+    {
+        "challenge_name": "Rzeszow",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 20,
+        "rating": 4.44,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 158
+    },
+    {
+        "challenge_name": "Every Bit Counts",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 14,
+        "rating": 4.8,
+        "category": "Reverse Engineering;ebouteillon",
+        "solves": 157
+    },
+    {
+        "challenge_name": "The Super Secure Service",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 11,
+        "rating": 4.92,
+        "category": "Reverse Engineering;thekidofarcrania",
+        "solves": 155
+    },
+    {
+        "challenge_name": "Rock Paper Scissors 2",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 30,
+        "rating": 4.9,
+        "category": "Miscellaneous;intelagent",
+        "solves": 153
+    },
+    {
+        "challenge_name": "CTF 6502",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 9,
+        "rating": 4.34,
+        "category": "Reverse Engineering;heinandre",
+        "solves": 149
+    },
+    {
+        "challenge_name": "Jumping Chain Hash",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 10,
+        "rating": 4.25,
+        "category": "Programming;adapap",
+        "solves": 140
+    },
+    {
+        "challenge_name": "Flag Protocol",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 16,
+        "rating": 4.67,
+        "category": "Miscellaneous;heinandre",
+        "solves": 140
+    },
+    {
+        "challenge_name": "Bangalore Assembler Chall",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 20,
+        "rating": 4.74,
+        "category": "Programming;kcbowhunter",
+        "solves": 140
+    },
+    {
+        "challenge_name": "Tony Stark's Message",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 11,
+        "rating": 4.64,
+        "category": "Programming;saphine",
+        "solves": 139
+    },
+    {
+        "challenge_name": "Leak me",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 20,
+        "rating": 4.96,
+        "category": "Binary;Rivit",
+        "solves": 132
+    },
+    {
+        "challenge_name": "Poor Login",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 12,
+        "rating": 4.81,
+        "category": "Binary;thekidofarcrania",
+        "solves": 126
+    },
+    {
+        "challenge_name": "Ten Thousand Hours",
+        "difficulty": "Hard",
+        "points": 140,
+        "comments": 16,
+        "rating": 4.94,
+        "category": "Programming;blockingthesky",
+        "solves": 121
+    },
+    {
+        "challenge_name": "Noise?",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 14,
+        "rating": 4.94,
+        "category": "Forensics;thekidofarcrania",
+        "solves": 115
+    },
+    {
+        "challenge_name": "The Most Secured Crypto-Channel",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 10,
+        "rating": 4.79,
+        "category": "Cryptography;smite",
+        "solves": 110
+    },
+    {
+        "challenge_name": "Jenny",
+        "difficulty": "Hard",
+        "points": 140,
+        "comments": 19,
+        "rating": 4.69,
+        "category": "Binary;thekidofarcrania",
+        "solves": 109
+    },
+    {
+        "challenge_name": "Domain name resolver",
+        "difficulty": "Easy",
+        "points": 10,
+        "comments": 15,
+        "rating": 4.9,
+        "category": "Binary;Rivit",
+        "solves": 106
+    },
+    {
+        "challenge_name": "SpaceStation",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 13,
+        "rating": 4.61,
+        "category": "Forensics;kcbowhunter",
+        "solves": 105
+    },
+    {
+        "challenge_name": "Q's Cubes",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 7,
+        "rating": 4.95,
+        "category": "Miscellaneous;adapap",
+        "solves": 97
+    },
+    {
+        "challenge_name": "Rio32",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 20,
+        "rating": 4.63,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 95
+    },
+    {
+        "challenge_name": "Keyboard Prodigy",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 6,
+        "rating": 4.42,
+        "category": "Programming;adapap",
+        "solves": 94
+    },
+    {
+        "challenge_name": "An Old Image",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 18,
+        "rating": 4.67,
+        "category": "Programming;PineappleConverter",
+        "solves": 93
+    },
+    {
+        "challenge_name": "Positive challenge",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 7,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 90
+    },
+    {
+        "challenge_name": "Rotterdam Reversing Challenge",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 25,
+        "rating": 4.81,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 89
+    },
+    {
+        "challenge_name": "Christmas Tree Hash",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 14,
+        "rating": 4.56,
+        "category": "Programming;adapap",
+        "solves": 83
+    },
+    {
+        "challenge_name": "Android, run!",
+        "difficulty": "Hard",
+        "points": 140,
+        "comments": 5,
+        "rating": 4.9,
+        "category": "Miscellaneous;vidar",
+        "solves": 76
+    },
+    {
+        "challenge_name": "Linear-feedback. Shift. Register.",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 9,
+        "rating": 4.83,
+        "category": "Cryptography;Wolfowy",
+        "solves": 75
+    },
+    {
+        "challenge_name": "Libraries",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 3,
+        "rating": 4.71,
+        "category": "Binary;thekidofarcrania",
+        "solves": 68
+    },
+    {
+        "challenge_name": "A secure LCG?",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 10,
+        "rating": 4.77,
+        "category": "Cryptography;Wolfowy",
+        "solves": 65
+    },
+    {
+        "challenge_name": "Impossible equation",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 12,
+        "rating": 4.62,
+        "category": "Programming;Rivit",
+        "solves": 65
+    },
+    {
+        "challenge_name": "Roma",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 9,
+        "rating": 4.83,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 52
+    },
+    {
+        "challenge_name": "TheVault",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 36,
+        "rating": 4.62,
+        "category": "Forensics;kcbowhunter",
+        "solves": 52
+    },
+    {
+        "challenge_name": "Alternate Endings",
+        "difficulty": "Hard",
+        "points": 200,
+        "comments": 21,
+        "rating": 4.93,
+        "category": "Forensics;adapap",
+        "solves": 51
+    },
+    {
+        "challenge_name": "Jakarta",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 19,
+        "rating": 4.72,
+        "category": "Forensics;kcbowhunter",
+        "solves": 49
+    },
+    {
+        "challenge_name": "Phone",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 20,
+        "rating": 4.52,
+        "category": "Forensics;konik02",
+        "solves": 48
+    },
+    {
+        "challenge_name": "Sonnet",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 6,
+        "rating": 3.71,
+        "category": "Reverse Engineering;thekidofarcrania",
+        "solves": 44
+    },
+    {
+        "challenge_name": "VargasIsland",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 20,
+        "rating": 4.86,
+        "category": "Forensics;kcbowhunter",
+        "solves": 43
+    },
+    {
+        "challenge_name": "Antigua",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 4,
+        "rating": 5.0,
+        "category": "Programming;kcbowhunter",
+        "solves": 41
+    },
+    {
+        "challenge_name": "Two times sixteen",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 12,
+        "rating": 4.94,
+        "category": "Binary;Rivit",
+        "solves": 40
+    },
+    {
+        "challenge_name": "arm arch",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 8,
+        "rating": 5.0,
+        "category": "Reverse Engineering;Ichild",
+        "solves": 39
+    },
+    {
+        "challenge_name": "Common secret",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 20,
+        "rating": 4.35,
+        "category": "Cryptography;andreigasparovici",
+        "solves": 38
+    },
+    {
+        "challenge_name": "Regina",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 12,
+        "rating": 5.0,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 38
+    },
+    {
+        "challenge_name": "Rabat Reversing Challenge",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 16,
+        "rating": 5.0,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 34
+    },
+    {
+        "challenge_name": "Forbidden executable",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 13,
+        "rating": 4.23,
+        "category": "Reverse Engineering;domin568",
+        "solves": 33
+    },
+    {
+        "challenge_name": "Readme",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 6,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 33
+    },
+    {
+        "challenge_name": "Glob",
+        "difficulty": "Easy",
+        "points": 20,
+        "comments": 5,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 33
+    },
+    {
+        "challenge_name": "Test Event Challenge 1",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 3,
+        "rating": 3.14,
+        "category": "Binary;intelagent",
+        "solves": 32
+    },
+    {
+        "challenge_name": "Nighthawk",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 32,
+        "rating": 4.88,
+        "category": "Forensics;kcbowhunter",
+        "solves": 32
+    },
+    {
+        "challenge_name": "The Awesome Gift!",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 17,
+        "rating": 4.71,
+        "category": "Forensics;thekidofarcrania",
+        "solves": 31
+    },
+    {
+        "challenge_name": "Scope",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 13,
+        "rating": 5.0,
+        "category": "Forensics;kcbowhunter",
+        "solves": 25
+    },
+    {
+        "challenge_name": "Runner",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 3,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 23
+    },
+    {
+        "challenge_name": "APK Login Cracking",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 8,
+        "rating": 5.0,
+        "category": "Reverse Engineering;risecid",
+        "solves": 22
+    },
+    {
+        "challenge_name": "Cookies",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 9,
+        "rating": 4.88,
+        "category": "Binary;Rivit",
+        "solves": 21
+    },
+    {
+        "challenge_name": "Random malloc",
+        "difficulty": "Easy",
+        "points": 30,
+        "comments": 5,
+        "rating": 4.88,
+        "category": "Binary;Rivit",
+        "solves": 21
+    },
+    {
+        "challenge_name": "Rouen",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 13,
+        "rating": 5.0,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 20
+    },
+    {
+        "challenge_name": "F1L3 M1X3R 2 - MP4 Identity Issue",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 16,
+        "rating": 4.6,
+        "category": "Forensics;RedK",
+        "solves": 18
+    },
+    {
+        "challenge_name": "Rainbow",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 11,
+        "rating": 4.92,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 18
+    },
+    {
+        "challenge_name": "Lottery",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 18
+    },
+    {
+        "challenge_name": "PACMAN",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 1,
+        "rating": 4.75,
+        "category": "Reverse Engineering;comet",
+        "solves": 17
+    },
+    {
+        "challenge_name": "Patcher",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 3,
+        "rating": 5.0,
+        "category": "Reverse Engineering;Rivit",
+        "solves": 17
+    },
+    {
+        "challenge_name": "Number Cruncher",
+        "difficulty": "Hard",
+        "points": 100,
+        "comments": 8,
+        "rating": 4.88,
+        "category": "Reverse Engineering;thekidofarcrania",
+        "solves": 15
+    },
+    {
+        "challenge_name": "RE^2 I",
+        "difficulty": "Hard",
+        "points": 160,
+        "comments": 9,
+        "rating": 5.0,
+        "category": "Binary;thekidofarcrania",
+        "solves": 13
+    },
+    {
+        "challenge_name": "Disabled service",
+        "difficulty": "Medium",
+        "points": 40,
+        "comments": 3,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 13
+    },
+    {
+        "challenge_name": "Chain",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 3,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 13
+    },
+    {
+        "challenge_name": "No more cookies",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 13
+    },
+    {
+        "challenge_name": "Buffer brothers",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 12
+    },
+    {
+        "challenge_name": "Old times",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 8,
+        "rating": 5.0,
+        "category": "Reverse Engineering;Rivit",
+        "solves": 9
+    },
+    {
+        "challenge_name": "Theft",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 9
+    },
+    {
+        "challenge_name": "Introduction to Intrinsics",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 5,
+        "rating": 4.71,
+        "category": "Reverse Engineering;Gilad",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Not so fast",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 15,
+        "rating": 4.71,
+        "category": "Reverse Engineering;Rivit",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Banned bytes",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Management",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 1,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Inspector gadget",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 0,
+        "rating": 4.75,
+        "category": "Binary;Rivit",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Callsys",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Dune",
+        "difficulty": "Medium",
+        "points": 60,
+        "comments": 9,
+        "rating": 5.0,
+        "category": "Reverse Engineering;kcbowhunter",
+        "solves": 8
+    },
+    {
+        "challenge_name": "Redirected",
+        "difficulty": "Hard",
+        "points": 70,
+        "comments": 1,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 6
+    },
+    {
+        "challenge_name": "House",
+        "difficulty": "Hard",
+        "points": 80,
+        "comments": 1,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 5
+    },
+    {
+        "challenge_name": "Slow bin",
+        "difficulty": "Hard",
+        "points": 90,
+        "comments": 5,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 5
+    },
+    {
+        "challenge_name": "Hook",
+        "difficulty": "Medium",
+        "points": 50,
+        "comments": 0,
+        "rating": 5.0,
+        "category": "Binary;Rivit",
+        "solves": 5
+    }
+]
