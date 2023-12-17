@@ -7,4 +7,5 @@
 - [HW3: CTF Learn Challenge List](https://github.com/patty111/PL-Course-Repo/blob/main/hw3/hw3.ipynb)
 - [HW5: WordCloud and Masking](https://github.com/patty111/PL-Course-Repo/hw5)
 
-- [Final Project](https://youtu.be/GJ6T9-d4Prw)
+- [Final Project](https://www.youtube.com/watch?v=hdOzrbVS8iQ)
+> Project Link: https://github.com/patty111/url-shorten
